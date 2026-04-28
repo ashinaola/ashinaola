@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I am a software developer that was born and raised in Chula Vista.  My professional experience is mostly in DevOps, however I am always working towards being comfortable in different areas such as data engineering and AI.  Currently, I am working towards completing my computer science and applied mathematics degrees and am planning on attending graduate school in the future.
+I have an interest in urban planning and follow organizations like Strong Towns to be informed on how I can help my neighborhood become a better place to live.  I hope that I can use what little skill I have to create more tools that can help members of the community advocate for safer streets and great neighborhoods.
+
+- I'm currently working on:
+    - A portable dev environment
+    - A mathematics toolkit
+    - JankPhorge
+    - MoeronTriesCode
+
 <!--
 **ashinaola/ashinaola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
