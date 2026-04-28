@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-I am a software developer that was born and raised in Chula Vista.  My professional experience is mostly in DevOps, however I am always working towards being comfortable in different areas such as data engineering and AI.  Currently, I am working towards completing my computer science and applied mathematics degrees and am planning on attending graduate school in the future.
-I have an interest in urban planning and follow organizations like Strong Towns to be informed on how I can help my neighborhood become a better place to live.  I hope that I can use what little skill I have to create more tools that can help members of the community advocate for safer streets and great neighborhoods.
+I am a software developer that was born and raised in Chula Vista.  My professional experience is mostly in DevOps, however I strive towards being comfortable in different domains such as data engineering and AI.  Currently, I am working towards completing my computer science and applied mathematics degrees and am planning on attending graduate school in the future.  My ultimate goal is to enter high performance computing to work with different research efforts accross multiple domains.  
+
+Outside of computer science and math, I have an interest in urban planning and follow organizations like Strong Towns to be informed on how I can help my neighborhood become a better place to live.  I hope that I can use what little skill I have to create more tools that can help members of the community advocate for safer streets and great neighborhoods.  I am also slowly but surely learning the board game go, however I am terrible at the game and still am an beginner.  My other hobby is penspinning and am practicing tricks like the hai tua. :)  
 
 - I'm currently working on:
     - A portable dev environment
