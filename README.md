@@ -5,10 +5,7 @@ I am a software developer that was born and raised in Chula Vista.  My professio
 Outside of computer science and math, I have an interest in urban planning and follow organizations like Strong Towns to be informed on how I can help my neighborhood become a better place to live.  I hope that I can use what little skill I have to create more tools that can help members of the community advocate for safer streets and great neighborhoods.  I am also slowly but surely learning the board game go, however I am terrible at the game and still am an beginner.  My other hobby is penspinning and am practicing tricks like the hai tua. :)  
 
 - I'm currently working on:
-    - dev-environment-in-a-box
-    - LAD-Math-Toolkit
-    - JankPhorge
-    - MoeronTriesCode
+    - 
 
 <!--
 **ashinaola/ashinaola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
